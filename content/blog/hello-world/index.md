@@ -21,25 +21,25 @@ I personally focused on the backend this week. I created routes, deployed to Her
 ---
 
 - Task: Add get requests for teachers
-- https://trello.com/c/iaGnXvX5/41-get-request-for-teachers
+- Trello: https://trello.com/c/iaGnXvX5/41-get-request-for-teachers
 - Github: https://github.com/Lambda-School-Labs/labs10-student-follow/pull/2
 
 ---
 
 - Task: Deploy postgres to Heroku
-- https://trello.com/c/geA2e9xN/45-connect-postgres-db-to-codebase
+- Trello: https://trello.com/c/geA2e9xN/45-connect-postgres-db-to-codebase
 - Github: https://github.com/Lambda-School-Labs/labs10-student-follow/pull/15
 
 ---
 
 - Task: Add get and post requests for routes
-- https://trello.com/c/oTB2UG5n/42-add-get-and-post-requests-for-expected-tables
+- Trello: https://trello.com/c/oTB2UG5n/42-add-get-and-post-requests-for-expected-tables
 - Github: https://github.com/Lambda-School-Labs/labs10-student-follow/pull/12
 
 ---
 
 - Task: Add auth0 functionality
-- https://trello.com/c/QaITvKp2/47-set-up-login-with-auth0
+- Trello: https://trello.com/c/QaITvKp2/47-set-up-login-with-auth0
 - Github: https://github.com/Lambda-School-Labs/labs10-student-follow/pull/23
 
 ---
