@@ -1,6 +1,6 @@
 ---
 title: 'Labs: Week 1'
-date: '2019-01-14'
+date: '2019-02-14'
 ---
 
 ### Accomplishments this week

@@ -1,6 +1,6 @@
 ---
 title: 'Labs: Week 2'
-date: '2019-01-22'
+date: '2019-02-22'
 ---
 
 ### Accomplishments this week
@@ -20,7 +20,7 @@ This week I worked on integrating Stripe, setting up subscription payments with 
 
 - Task: Added react-stripe-checkout library
 - Trello: https://trello.com/c/5IgSh72J/60-update-stripe-functionality
-- https://github.com/Lambda-School-Labs/labs10-student-follow/pull/39
+- Github: https://github.com/Lambda-School-Labs/labs10-student-follow/pull/39
 
 ---
 
