@@ -3,7 +3,10 @@ module.exports = {
     title: `Nick's Labs Blog`,
     author: `Nick O'Ferrall`,
     description: `A blog detailing our team's progress over 5 weeks.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    social: {
+      twitter: `kylemathews`
+    }
   },
   plugins: [
     {
