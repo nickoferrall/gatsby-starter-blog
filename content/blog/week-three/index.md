@@ -11,6 +11,16 @@ Our functionality is largely complete but bringing everything together has been 
 
 I personally worked on building the landing page, Auth0 and I've started working on Typeform too.
 
+### Working in a team
+
+Working in a team of 5 has been challenging and highly rewarding.
+
+Most of our Lambda experience has involved us working solo - learning new material and completing a project each day. My main takeaways from working in a team are:
+
+- Working with others drives me to work harder. If you're working on a solo project, you're only letting yourself down if there are weaknesses. With a group, you're letting others down too. That extra pressure has helped me to improve my work.
+- Communication is exceptionally important, particularly in development. The best way to avoid merge conflicts and to help each person maximise their time is by being explicitly clear with what everyone is working on. Our group meets up 3 times per day to discuss what we're working on and we regularly use Slack and Trello to stay on top of things. I feel that we're very strong in this area.
+- I feel that we were all slightly too positive about our team's accomplishments this week and we didn't realise how much work there was left to do. Often pulling together different features takes more time than expected.
+
 ## Tasks Pulled
 
 - Task: Landing Page V1
