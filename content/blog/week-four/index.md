@@ -11,6 +11,16 @@ We made improvements to the authentication process so that we have a teacher id 
 
 I personally working on integrating Typeform's API to create a professional Refreshr form for our users. This is now fully integrated with our website.
 
+## Reflecting on Focusing on Stylying
+
+This week's objective, we needed to update the styling of our website so that it looks similar to any other site our customers might use.
+
+I think our team accomplished our goal efficiently by dividing up pages between group members. Each team member "owned" a design page. We also had a theme file that specificed the colours and fonts that we use. This helps to keep the theme consistent across pages.
+
+There is always a temptation to add further functionality and leave styling for later. For example, we would like to build an analytics page, or add further functionality with Auth0.
+
+However, as we had completed MVP functionality, I feel that we this was a good moment in the project to ennsure that our site looks professional. Once we have ironed out a couple of bugs, we will then be able to build additional "nice to have" features now that we have virtually completed MVP.
+
 ## Tasks Pulled
 
 - Task: Get and post requests to Typeform's API
